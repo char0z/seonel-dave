@@ -6,3 +6,7 @@ while True:
         break
     print(i)
     i += 1
+
+print("l1")
+
+print("l2")
